@@ -1,2 +1,4 @@
-# Initial page
+# Spring Cloud官方文档翻译
+
+纯属自己的理解，段落和官方大致对上，内容多以白话为主
 
